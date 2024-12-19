@@ -1,0 +1,7 @@
+Version list
+
+1. Segundo_Config#3_Demura_V1.0.0_20241216
+   make Demura Read many time with valid data instead of 0x00.
+
+2. Segundo_Config#3_Demura_V1.0.0_20241218
+   add Demura Mode Control function.
